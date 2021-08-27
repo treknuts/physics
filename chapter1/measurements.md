@@ -33,7 +33,6 @@ Examples
 
 ## Unit Prefixes
 
-```
 1x10<sup>-24</sup> =  y  = yocto
 1x10<sup>-21</sup> =  z  = zepto
 1x10<sup>-18</sup> =  a  = atto
@@ -54,6 +53,5 @@ Examples
 1x10<sup>18</sup>  =  E  = exa
 1x10<sup>21</sup>  =  Z  = zetta
 1x10<sup>24</sup>  =  Y  = yotta
-```
 
 
