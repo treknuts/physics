@@ -64,7 +64,7 @@ Examples
 8GB = 8x10<sup>9</sup>B <br/>   
 8x10<sup>9</sup>B * 0.4 = 3.2x10<sup>9</sup>B available   <br/>
 3.2x10<sup>9</sup>B / 3x10<sup>6</sup>B = 1.066x10<sup>3</sup> songs = 1066 songs  <br/>
-</code
+</code>
 
 2. Density is 7850 kg/m<sup>3</sup>. Volume is 1000cm<sup>3</sup>. What is the mass?
 
