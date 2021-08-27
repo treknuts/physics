@@ -56,4 +56,17 @@ Examples
 | 1x10<sup>21</sup>  |   Z   | zetta |
 | 1x10<sup>24</sup>  |   Y   | yotta |
 
+## Example Problems
 
+1. 8GB iPod at 60% capacity. If a some is 3MB/song, how many more songs can you fit on the iPod?
+
+2. Density is 7850 kg/m<sup>3</sup>. Volume is 1000cm<sup>3</sup>. What is the mass?
+
+**Hint**
+`m = ρ x v`
+
+3. Which are measures of distance from the following?
+
+## Video
+
+[Powers of ten](https://www.youtube.com/watch?v=0fKBhvDjuy0)  
