@@ -1,4 +1,4 @@
-# Measurement  
+# Measurement (8/25)
 
 `measurement = number & unit`
 
@@ -28,4 +28,32 @@ Examples
 - Unit of force: newton `N = kg * m / s^2`
 - Unit of energy: joule `J = kg * m^2 / s^2`
 - Unit of pressure: pascal `Pa = kg / m * s^2`
+
+# Measurement Cont. (8/27)
+
+## Unit Prefixes
+
+```
+1x10<sup>-24</sup> =  y  = yocto
+1x10<sup>-21</sup> =  z  = zepto
+1x10<sup>-18</sup> =  a  = atto
+1x10<sup>-15</sup> =  f  = femto
+1x10<sup>-12</sup> =  p  = pico
+1x10<sup>-9</sup>  =  n  = nano
+1x10<sup>-6</sup>  =  µ  = micro
+1x10<sup>-3</sup>  =  m  = milli
+1x10<sup>-2</sup>  =  c  = centi
+1x10<sup>-1</sup>  =  d  = deci
+1x10<sup>1</sup>   =  da = deca
+1x10<sup>2</sup>   =  h  = hecto
+1x10<sup>3</sup>   =  k  = kilo
+1x10<sup>6</sup>   =  M  = mega
+1x10<sup>9</sup>   =  G  = giga
+1x10<sup>12</sup>  =  T  = tera
+1x10<sup>15</sup>  =  P  = peta
+1x10<sup>18</sup>  =  E  = exa
+1x10<sup>21</sup>  =  Z  = zetta
+1x10<sup>24</sup>  =  Y  = yotta
+```
+
 
