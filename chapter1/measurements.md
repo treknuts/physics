@@ -15,19 +15,19 @@
 
 Units of other quantities are derived from 7 base units.
 
-E.g. `Area = x * y = m^s`
+E.g. <code>Area = x * y = m<sup>s</sup></code>
 
-E.g. `Speed = v = d/t = m/s`
+E.g. <code>Speed = v = d/t = m/s</code
 
-E.g. `V (cone) = 1/3 * pi * r^2 * h = m^3 = m^2 * m^1`
+E.g. <code>V (cone) = 1/3 * π * r<sup>2</sup> * h = m<sup>3</sup> = m<sup>2</sup> * m<sup>1</sup></code>
 
 Derived units are named after notable scientists.
 
 Examples
 
-- Unit of force: newton `N = kg * m / s^2`
-- Unit of energy: joule `J = kg * m^2 / s^2`
-- Unit of pressure: pascal `Pa = kg / m * s^2`
+- Unit of force: newton <code>N = kg * m / s<sup>2</sup></code>
+- Unit of energy: joule <code>J = kg * m^2 / s<sup>2</sup></code>
+- Unit of pressure: pascal <code>Pa = kg / m * s<sup>2</sup></code>
 
 # Measurement Cont. (8/27)
 
@@ -60,10 +60,18 @@ Examples
 
 1. 8GB iPod at 60% capacity. If a some is 3MB/song, how many more songs can you fit on the iPod?
 
+<code>
+8GB = 8x10<sup>9</sup>B   
+8x10<sup>9</sup>B * 0.4 = 3.2x10<sup>9</sup>B available   
+3.2x10<sup>9</sup>B / 3x10<sup>6<sup>B = 1.066x10<sup>3</sup> songs = 1066 songs  
+</code>
+
 2. Density is 7850 kg/m<sup>3</sup>. Volume is 1000cm<sup>3</sup>. What is the mass?
 
-**Hint**
+**Hint**  
 `m = ρ x v`
+
+
 
 3. Which are measures of distance from the following?
 
