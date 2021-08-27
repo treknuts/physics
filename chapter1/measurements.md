@@ -60,11 +60,11 @@ Examples
 
 1. 8GB iPod at 60% capacity. If a some is 3MB/song, how many more songs can you fit on the iPod?
 
-<code>
+```
 8GB = 8x10<sup>9</sup>B   
 8x10<sup>9</sup>B * 0.4 = 3.2x10<sup>9</sup>B available   
 3.2x10<sup>9</sup>B / 3x10<sup>6</sup>B = 1.066x10<sup>3</sup> songs = 1066 songs  
-</code>
+```
 
 2. Density is 7850 kg/m<sup>3</sup>. Volume is 1000cm<sup>3</sup>. What is the mass?
 
