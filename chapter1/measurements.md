@@ -69,8 +69,24 @@ Examples
 **Hint**  
 `m = ρ x v`
 
+<code>
+	m = 7850 kg/m * 1.0 x 10^-3m
+	m = 7.85 kg
+</code>
+
 
 3. Which are measures of distance from the following?
+
+`[v] = [m/s]`
+`[t] = [s]`
+`[a] = [m/s^2]`
+
+- A. [vt] = [m/s][s] = [m]
+- B. `[1/2at^2] = [m/s^2][s^2] = [m]`
+- C. `[2at^2] = [m/s^s][s^2] = m`
+- D. `[v^2/a] = [[m^2/s^2]/[m/s^s]] = [m^2/s^2] * [s^2/m] = [m]`
+
+**Answer**: All are a dimension of distance in meters.
 
 ## Video
 
