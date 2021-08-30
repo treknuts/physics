@@ -82,7 +82,7 @@ Examples
 `[a] = [m/s^2]`
 
 - A. [vt] = [m/s][s] = [m]
-- B. [1/2at<sup>2</sup>] = [m/s<sup>2<sup>][s<sup>2</sup>] = [m]
+- B. [1/2at<sup>2</sup>] = [m/s<sup>2</sup>][s<sup>2</sup>] = [m]
 - C. [2at<sup>2</sup>] = [m/s<sup>2</sup>][s^2] = [m]
 - D. [v<sup>2</sup>/a] = [[m<sup>2</sup>/s<sup>2</sup>]/[m/s<sup>2</sup>]] = [m<sup>2</sup>/s<sup>2</sup>] * [s<sup>2</sup>/m] = [m]
 
