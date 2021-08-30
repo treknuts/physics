@@ -82,9 +82,9 @@ Examples
 `[a] = [m/s^2]`
 
 - A. [vt] = [m/s][s] = [m]
-- B. `[1/2at^2] = [m/s^2][s^2] = [m]`
-- C. `[2at^2] = [m/s^s][s^2] = m`
-- D. `[v^2/a] = [[m^2/s^2]/[m/s^s]] = [m^2/s^2] * [s^2/m] = [m]`
+- B. [1/2at^2] = [m/s^2][s^2] = [m]
+- C. [2at^2] = [m/s^s][s^2] = [m]
+- D. [v^2/a] = [[m^2/s^2]/[m/s^s]] = [m^2/s^2] * [s^2/m] = [m]
 
 **Answer**: All are a dimension of distance in meters.
 
